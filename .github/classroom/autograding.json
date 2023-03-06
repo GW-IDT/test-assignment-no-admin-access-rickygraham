@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HelloWorld without Quotes",
+      "setup": "",
+      "run": "print(\"Hello World!\", quote = FALSE)",
+      "input": "print(\"Hello World!\", quote = FALSE)",
+      "output": "Hello World!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
